@@ -1,7 +1,7 @@
 # .NET MVC Web app, Azure SQL
 ## Introduction
 
-Contoso University is a sample application that demonstrates how to use Entity Framework Core in an ASP.NET Core Razor Pages web app. This app can be deployed to Microsoft's Azure cloud platform that allows you to build, deploy, and scale web apps.
+jochaPushingToMain. Contoso University is a sample application that demonstrates how to use Entity Framework Core in an ASP.NET Core Razor Pages web app. This app can be deployed to Microsoft's Azure cloud platform that allows you to build, deploy, and scale web apps.
 
 This sample application is structured in a way to be compatible with [Azure Developer CLI (azd) ](https://github.com/Azure/azure-dev/) which are currently in preview.
 
